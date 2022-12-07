@@ -1,1 +1,2 @@
-This directory provides the opportunity to practise shell alaising, variables et al
+0x03-shell_variables_expansions
+13 mandatory + 4 advanced tasks
